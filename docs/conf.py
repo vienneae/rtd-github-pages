@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'helloWorld'
-copyright = '2020, Michael Altfield'
-author = 'Michael Altfield'
+project = 'Python Bootcamp'
+copyright = '2020, Evan Vienneau'
+author = 'Evan Vienneau'
 
 # The short X.Y version
 version = ''
