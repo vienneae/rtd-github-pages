@@ -119,7 +119,7 @@ following link (make sure to choose the correct download for your OS):
 
 .. |link13| raw:: html
 
-   <a href="https://mcmaster.syzygy.ca" target="_blank">Sublime Text</a>
+   <a href="https://www.sublimetext.com/3" target="_blank">Sublime Text</a>
 
 
 Let’s write and run one of the simplest programs ever, just to get an idea of what 
