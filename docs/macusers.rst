@@ -118,7 +118,7 @@ following link (make sure to choose the correct download for your OS):
 
 .. |link12| raw:: html
 
-   <a href="https://mcmaster.syzygy.ca" target="_blank">Sublime Text</a>
+   <a href="https://www.sublimetext.com/3" target="_blank">Sublime Text</a>
 
 
 
